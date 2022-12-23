@@ -98,4 +98,6 @@
 ## ✅ Экзаменационные билет №22
 
 Ответ на экзаменационный билет доступен по ссылке:
-[билет №9](https://github.com/stankin/inet-2022/wiki/exam09)
+[билет №13](https://github.com/stankin/inet-2022/wiki/exam13)
+
+[diff](https://github.com/stankin/inet-2022/wiki/exam13/_compare/dfa2ba928fcd1ff557caa0cca64ffea948f26fe0)
