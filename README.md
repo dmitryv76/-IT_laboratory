@@ -95,7 +95,7 @@
 Работа с Cisco Packet Tracer
 1. [Отчет](https://github.com/dmitryv76/IT_laboratory/raw/master/CPT/IT_LR3_Velikovsky_IDM-22-02.docx)
 2. [Сценарий Cisco Packet Tracer](https://github.com/dmitryv76/IT_laboratory/raw/master/CPT/IT_LR3_Velikovsky_IDM-22-02.pka)
-## ✅ Экзаменационные билет №22
+## ✅ Экзаменационные билет №13
 
 Ответ на экзаменационный билет доступен по ссылке:
 [билет №13](https://github.com/stankin/inet-2022/wiki/exam13)
